@@ -48,10 +48,8 @@ Este proyecto fue creado como parte de mi formación en Ingeniería en Informát
    ```bash
    git clone https://github.com/FJMoisesRomero/Landing-Page-UCASAL.git
 Abre el archivo index.html en tu navegador favorito.
-📸 Capturas del proyecto
-🌟 Página Principal
 
-(Agrega una captura de la página aquí, subiendo una imagen al repositorio y enlazándola con la ruta correspondiente)
+![Captura 1](image.png)
 
 🏫 Sobre la Universidad Católica de Salta (UCASAL)
 La Universidad Católica de Salta es una institución educativa comprometida con la formación académica y profesional de excelencia en Argentina. Esta landing page está diseñada para resaltar su misión y valores educativos.
