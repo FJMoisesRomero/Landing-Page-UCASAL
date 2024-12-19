@@ -1,6 +1,4 @@
 
-markdown
-Copiar código
 # 🌐 Landing Page - Universidad Católica de Salta
 
 Este proyecto es una **Landing Page educativa** desarrollada como parte de un proyecto universitario en la **Universidad Católica de Salta** (UCASAL). 🚀  
