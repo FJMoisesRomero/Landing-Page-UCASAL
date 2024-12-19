@@ -31,22 +31,16 @@ Este proyecto fue creado como parte de mi formación en Ingeniería en Informát
 3. Aplicar buenas prácticas de desarrollo, como el uso de código limpio y reutilizable.  
 
 ---
-
 ## 📂 Estructura del proyecto
 
+```plaintext
 📦 Landing-Page-UCASAL
 ┣ 📂 css
 ┃ ┗ styles.css
 ┣ 📂 img
 ┃ ┗ (Imágenes utilizadas en el proyecto)
 ┣ 📄 index.html
-┣ 📄 script.js
-
-yaml
-Copiar código
-
----
-
+┣ 📄 script.js 
 ## 🖥️ Cómo ejecutar el proyecto
 
 1. Clona este repositorio en tu máquina local:
