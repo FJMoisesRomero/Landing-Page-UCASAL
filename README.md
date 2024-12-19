@@ -42,7 +42,7 @@ Este proyecto fue creado como parte de mi formación en Ingeniería en Informát
 ┣ 📄 index.html
 ┣ 📄 script.js 
 ## 🖥️ Cómo ejecutar el proyecto
-
+```
 1. Clona este repositorio en tu máquina local:
    ```bash
    git clone https://github.com/FJMoisesRomero/Landing-Page-UCASAL.git
